@@ -16,5 +16,5 @@ I love using tailwindcss because
 
 ## Project setup
 1. Clone Project
-2. Run the command:  ``` yarn install ```
-3. To serve the application run: ``` yarn serve ```
+2. Run the command:  ``` npm install && npm run watch```
+3. To serve the application run: ``` php artisan serve ```
